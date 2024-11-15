@@ -37,13 +37,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Letterboxd film descriptie pagina
+  <details open>
       <img src="readme-images/homepagina.JPG" width="375px" alt="Screenshot van de homepagina van Letterboxd.">
-
+  </details>
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Letterboxd profiel
+  <details open>
      <img src="readme-images/profiel.JPG" width="375px" alt="Screenshot van een profiel op Letterboxd.">
-
+  </details>
  
 </details>
 
