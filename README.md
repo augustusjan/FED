@@ -9,23 +9,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
 ## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  August Bruil
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw of rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Nog niet zeker
  
 </details>
-
 
 
 
@@ -36,17 +33,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  De website heet Letterboxd, hier kan je films noteren die je hebt gekeken. https://letterboxd.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Letterboxd film descriptie pagina
+    <details open>
+      <img src="readme-images/homepagina.jpg" width="375px" alt="Screenshot van de homepagina van Letterboxd.">
+    </details>
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Letterboxd profiel
+    <details open>
+     <img src="readme-images/profiel.jpg" width="375px" alt="Screenshot van een profiel op Letterboxd.">
+    </details>
  
 </details>
+
 
 
 
@@ -59,6 +61,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
 </details>
+
 
 
 
@@ -77,7 +80,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
-
 
 
 
@@ -114,7 +116,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
 ## Voortgang 2 (week 3)
 
 <details>
@@ -147,7 +148,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
@@ -157,7 +157,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
 </details>
-
 
 
 
@@ -190,7 +189,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - ...
 
 </details>
-
 
 
 
