@@ -50,8 +50,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 </details>
 
 
-
-
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
@@ -59,10 +57,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - Hoe ik de contrast van elementen op de website kan checken en of ze voldoen.
+  - De volgorde van items die de screenreader oppakte was in een dezelfde volgorde als visuele.
 
 </details>
-
-
 
 
 ## Breakdownschets (week 1)
@@ -71,7 +69,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  Hoofdstructuur van de homepagina.
+  <details open>
+    <img src="readme-images/homepaginahoofdstructuur.jpg" width="375px" alt="breakdown van de hele pagina">
+  </details>
+
+  Hoofdstructuur van een profiel.
+  <details open>
+    <img src="readme-images/homepaginahoofdstructuur.jpg" width="375px" alt="breakdown van de hele pagina">
+  </details>
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
