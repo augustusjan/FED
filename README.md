@@ -71,12 +71,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### de hele pagina: 
   Hoofdstructuur van de homepagina.
   <details open>
-    <img src="readme-images/homepaginahoofdstructuur.jpg" width="375px" alt="breakdown van de hele pagina">
+    <img src="readme-images/homepaginahoofdstructuur.png" width="375px" alt="breakdown van de hele pagina">
   </details>
 
   Hoofdstructuur van een profiel.
   <details open>
-    <img src="readme-images/homepaginahoofdstructuur.jpg" width="375px" alt="breakdown van de hele pagina">
+    <img src="readme-images/profielhoofdstructuur.png" width="375px" alt="breakdown van de hele pagina">
   </details>
 
   ### dynamisch deel (bijv menu): 
