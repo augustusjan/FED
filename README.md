@@ -38,12 +38,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   Letterboxd film descriptie pagina
   <details open>
+    <summary>screenshot van homepagina</summary>
       <img src="readme-images/homepagina.JPG" width="375px" alt="Screenshot van de homepagina van Letterboxd.">
   </details>
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Letterboxd profiel
   <details open>
+    <summary>screenshot van profielpagina</summary>
      <img src="readme-images/profiel.JPG" width="375px" alt="Screenshot van een profiel op Letterboxd.">
   </details>
  
@@ -57,8 +59,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  - Hoe ik de contrast van elementen op de website kan checken en of ze voldoen.
-  - De volgorde van items die de screenreader oppakte was in een dezelfde volgorde als visuele.
+  - Hoe ik de contrast van elementen op de website kan checken en of ze voldoen. Op de website kreeg ik veel warnings dat het niet goed genoeg was.
+  - Ook miste er een focus styling in alles. Dit wil ik graag wel in mijn versie toevoegen.
+  - De volgorde van items die de screenreader oppakte was in een dezelfde volgorde als visuele   volgorde.
+  - De lettergrootte kon je aanpassen, het werd niet geblokkeerd.
+
+Tijdens de les hebben we het over toegankelijkheid gehad en wat dat inhoud. Er zijn vele tools om websites toegankelijker te maken voor meer mensen. Je hebt bijvoorbeeld kleurenfilters voor mensen die kleurenblind zijn. Screenreaders voor bijvoorbeeld slechtziende mensen met beperkt zicht. Ook zijn er tools voor mensen met motorische beperkingen, zoals spraakherkenning, speciale muizen of toetsenborden.
+
+Om de toegankelijkheid van je website te checken kan je veel doen. Je kan de website langsgaan met de WCAG checklist, hiermee kan je pijnpunten vinden die je op de website zou kunnen hebben. Maar als je aan de hele checklist voldoet kan je alsnog niet toegankelijk zijn voor iedereen.
+
+We hebben zelf gewerkt met een screenreader en de WCAG checklist. Met de screenreader kwamen er achter dat het erg vervelend is als je niet kan skippen. Het gebruiken van een screenreader voor het eerst is erg apart.
+
+Op de website Letterboxd.com kwam ik erachter dat het erg vervelend is als je door alle linkjes zou moeten tabben. Je hebt bij film informatie de cast staan van de film, elke persoon in de cast is een link en om 40 linkjes achterelkaar te skippen lijkt me niet fijn. Ik heb nog niet een manier gevonden hoe je dit zou moeten skippen zonder een skip link.
+
+
+
 
 </details>
 
