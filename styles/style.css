@@ -3,12 +3,8 @@
 /**************/
 *, *::after, *::before {
   box-sizing:border-box;  
+  margin: 0;
 }
-
-
-
-
-
 
 /*********************/
 /* CUSTOM PROPERTIES */
@@ -19,13 +15,56 @@
 	--color-background:#eee;
 }
 
-
-
-
-
 /****************/
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
+body {
+	font-family:Graphik-Regular-Web,sans-serif;
+	background-color: #1c2329;
+	color:#ACBDC8;
+}
 
+header {
+	height: 2em;
+	background-color:#14181c;
+	color:#fff;
+	overflow: hidden;
+	margin-bottom: 1em;
+ }
+
+main {
+	margin:.8em;
+ }
+
+main h1 {
+	font-size:1.4em;
+	margin:0 0 1rem;
+	text-align:center;
+}
+
+h1, h2 {
+	font-weight: lighter;
+}
+
+h1 a {
+	color:#fff;
+	text-decoration-color:#ACBDC8;
+}
+
+h2 {
+	margin:0.5rem 0;
+	font-size:0.8em;
+	text-transform:uppercase;
+}
+
+img {
+	width: 30%;
+	align-items: center;
+	justify-content: center;
+	/* padding: .5em 1em; */
+}
+
+main > section {
+	margin-bottom: 2.5rem;
+}
