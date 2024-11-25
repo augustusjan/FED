@@ -60,11 +60,18 @@ h2 {
 
 img {
 	width: 30%;
-	align-items: center;
-	justify-content: center;
 	/* padding: .5em 1em; */
 }
 
 main > section {
-	margin-bottom: 2.5rem;
+	margin-bottom:2.5rem;
+}
+
+section {
+	margin:2em 0;
+}
+
+footer {
+	background-color:#2C3440;
+	padding:1.5em 0;
 }
